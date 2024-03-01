@@ -1,0 +1,42 @@
+body {
+    background-color:lightblue
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.lifonttype{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    text-align: left;
+}
+
+
+h1 {
+    color: blue;
+}
+
+.h21 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+.text {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+.text2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: right;
+}
+
+#div1 {
+    text-align: center;
+}
