@@ -1,0 +1,129 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-color:#ecf0f5;
+}
+
+#header {
+    display: flex;
+    width: 100%;
+    height: 80px;
+    background-color: #34599e;
+    
+    /* border: 1px solid black; */ 
+}
+
+#header h1 {
+    display: inline-block;
+    color: #fff;
+    margin-top: 40px;
+    margin-left: 225px;
+}
+
+#form {
+    display: inline-block;
+    margin-left: 40vw;
+}
+
+#text {
+    display: inline-block;
+    color: #fff;
+    vertical-align: middle;
+}
+
+#password {
+    display: inline-block;
+    color: #fff;
+    margin-left: 10px;
+    vertical-align: middle;
+}
+
+#forgot {
+    color: #fff;
+}
+
+.inp {
+    background-color: #faffb6;
+    margin-bottom:16px
+}
+
+#submit {
+    display: inline-block;
+    margin-left: 25px;
+    background-color:#6b7ca6; 
+    vertical-align: middle;   
+}
+
+#wrapper2 {
+     /* display: inline-block;  */
+     vertical-align: top;
+    
+}
+
+#connect {
+    display: inline-block;
+    width: 59%;
+    height: 100vh;
+    /* border:  1px solid black; */
+}
+
+#connect p {
+    padding-left: 20%;
+    /* margin-top: 50px; */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: xx-large;
+}
+#p1 {
+    margin-top: 50px;
+}
+
+.connect2 {
+    font-size: larger;
+    margin-left: 275px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#signup_form {
+    display: inline-block;
+    width: 40%;
+    height: 100vh;
+    vertical-align: top;
+    margin-top: 16px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#signup_form p {
+    margin-top: 10px;
+}
+
+#name {
+    display: inline-block;
+}
+
+.emailandphone {
+    width: 302.828px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#dob-day, #dob-month, #dob-year {
+    background-color: #dedede;
+}
+
+a {
+    font-size: small;
+    color: #6b7ca6;
+}
+
+#signup_button {
+    background-color: #00b500;
+    color: #fff;
+    width: 50%;
+    margin: 0 auto;
+    padding: 16px 4px;
+    border-radius: 4px;
+    margin: 16px auto;
+}
+

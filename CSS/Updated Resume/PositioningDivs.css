@@ -1,0 +1,49 @@
+#BlueDiv {
+    width: 100vw;
+    height: 150px;
+    border: solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#BlueBox {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+
+}
+
+#RedDiv {
+    width: 100vw;
+    height: 150px;
+    border: solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+#RedBox {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+#GreenDiv {
+    width: 100vw;
+    height: 150px;
+    border: solid black;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+
+}
+
+#GreenBox {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    margin-right: 110px;
+}
